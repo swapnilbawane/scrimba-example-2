@@ -1,0 +1,58 @@
+let age = 22;
+
+if ( age < 21 )
+{ console.log("You cannot enter the club"); }
+else console.log("Welcome!");
+
+let age=100; 
+
+if ( age < 100 )
+{ console.log("Not eligible") }
+else if ( age === 100) {
+    console.log("Here is your birthday card from the King!");
+} else {console.log("Not eligible, you have already gotten one"); }
+
+if ( sum <= 20 )
+{ "Do you want to draw a new card"}
+else if ( sum === 21 ) { console.log("")
+else console.log }
+
+--
+console.log(4 === 3)  // 
+console.log(5 > 2)    // 
+console.log(12 > 12)  //
+console.log(3 < 0)    //
+console.log(3 >= 3)   // 
+console.log(11 <= 11) //
+console.log(3 <= 2)
+
+let message = " ";
+message="";
+
+console.log(message);
+
+<link rel = href= > </link>
+<script src=""> </script>
+
+
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url("images/table.png");
+    background-size: cover; // allows to not repeat 
+    text-align: center;
+    color: white;
+}
+
+font-style: italic;
+
+button {
+    color: #016f32;
+    width: 150px;
+    background: goldenrod;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+
+    
